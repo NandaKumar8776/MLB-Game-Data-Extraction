@@ -1,9 +1,9 @@
-# Python Project 2: MLB Game Data Extraction
+# MLB Game Data Extraction
 
 ## Description
 This project is a Python application designed to retrieve and process Major League Baseball (MLB) game data from the MLB Stats API. The application reads URLs from a text file, fetches JSON data from the specified URLs, and processes the data to extract specific information. The extracted data is then saved to a CSV file for easy access and analysis.
 
-This project builds on concepts introduced in a previous JavaScript project (INFO-6144) but is implemented entirely in Python. The focus is on handling JSON data, navigating complex Python dictionaries, and generating output files in CSV format.
+This project builds on concepts introduced in a previous JavaScript project but is implemented entirely in Python. The focus is on handling JSON data, navigating complex Python dictionaries, and generating output files in CSV format.
 
 ## Objective
 The main goals of this project are:
